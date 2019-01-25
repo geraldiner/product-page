@@ -1,14 +1,14 @@
 @media (max-width: 800px) {
-	main {
-		width: 80%;
-	}
+    main {
+        width: 80%;
+    }
 }
 
 html,
 body {
     margin: 0;
     padding: 0;
-    background-color: #efefef;
+    background-color: #fff;
     font-family: 'Georgia', serif;
 }
 
@@ -20,8 +20,8 @@ header {
 #nav-bar {
     display: flex;
     justify-content: space-between;
-    background-color: #efefef;
-    border-bottom: 1px solid #c2c2c2;
+    background-color: #eee;
+    border-bottom: 1px solid #ddd;
 }
 
 #logo {
@@ -60,6 +60,11 @@ ul#nav-links a {
 .nav-link {
     display: inline-block;
     padding: 28px 48px;
+    color: initial;
+}
+
+.nav-link:hover {
+	color: #FF941F;
 }
 
 main {
@@ -94,6 +99,7 @@ section {
 
 .desc h3 {
     margin-top: 0;
+    color: #FF941F;
 }
 
 #video-container {
@@ -107,13 +113,13 @@ section {
 
 .price-box {
     width: 25%;
-    border: 1px solid #c2c2c2;
+    border: 1px solid #ccc;
     margin: 0 10px;
 }
 
 .price-h {
     text-align: center;
-    background-color: #d1d1d1;
+    background-color: #FF941F;
     padding: 5px 10px;
     margin: 0;
     height: 50px;
@@ -129,7 +135,7 @@ p.reqs {
 #newsletter {
     display: flex;
     padding: 90px 20%;
-    background-color: #d1d1d1;
+    background-color: #eee;
 }
 
 #newsletter-info,
@@ -155,7 +161,7 @@ p.reqs {
 }
 
 #submit {
-    background-color: #59ace0;
+    background-color: #FF941F;
     border-radius: 4px;
     color: white;
     font-size: 1em;
@@ -164,4 +170,3 @@ p.reqs {
     margin: 10px;
     border: 0px solid;
 }
-
