@@ -8,6 +8,7 @@ Simple product page to practice HTML/CSS featuring some [Stardew](https://www.st
 
 This was made a looooooong time ago and it's crazy to see how design has changed. I believe the site would be considered "outdated" by today's standard. It's definitely a static site, whereas a lot of websites nowadays incorporates a lot of dynamic movement and animations.
 
+
 ## Other Projects
 
 Check out other stuff I've worked on:
@@ -15,6 +16,8 @@ Check out other stuff I've worked on:
 **Minute To Win It Games API & Wiki**: https://github.com/geraldiner/min-to-win
 
 **Rehabitter:** https://github.com/geraldiner/rehabitter
+
+**Snapchat Clone:** https://github.com/geraldiner/snapchat-clone
 
 **K.K. Radio:** https://github.com/geraldiner/kk-radio
 
