@@ -9,6 +9,7 @@ Simple product page to practice HTML/CSS featuring some [Stardew Valley](https:/
 This was made a looooooong time ago and it's crazy to see how design has changed. I believe the site would be considered "outdated" by today's standard. It's definitely a static site, whereas a lot of websites nowadays incorporates a lot of dynamic movement and animations.
 
 
+
 ## Other Projects
 
 Check out other stuff I've worked on:
